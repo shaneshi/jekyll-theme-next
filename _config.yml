@@ -4,9 +4,13 @@
 # ---------------------------------------------------------------
 
 # Site
-title: 昕哥Blog
+<<<<<<< HEAD
+title: 昕哥的Blog
+=======
+title: 昕哥's Blog
+>>>>>>> df410f1e43528c4d0e64a4e914c0653c12c61bd7
 subtitle:
-description:
+description: 识不足则多虑，威不足则多怒，信不足则多言
 author: 昕 哥
 # Support language: de, en, fr-FR, id, ja, ko, pt-BR, pt, ru, zh-Hans, zh-hk, zh-tw
 language: zh-Hans
