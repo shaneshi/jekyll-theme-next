@@ -5,10 +5,10 @@
 
 # Site
 
-title: 昕哥的Blog
+title: 江苏海邦HIS
 subtitle:
-description: 识不足则多虑，威不足则多怒，信不足则多言
-author: 昕 哥
+description: 医院信息管理系统使用说明
+author: 江苏海邦
 # Support language: de, en, fr-FR, id, ja, ko, pt-BR, pt, ru, zh-Hans, zh-hk, zh-tw
 language: zh-Hans
 date_format: '%Y-%m-%d'
@@ -153,8 +153,8 @@ menu_icons:
 
 # Schemes
 #scheme: Mist
-#scheme: Muse
-scheme: Pisces
+scheme: Muse
+#scheme: Pisces
 
 
 # ---------------------------------------------------------------
@@ -234,7 +234,7 @@ social_icons:
 
 # Sidebar Avatar
 # in directory: /assets/images/avatar.gif
-avatar: http://7xta2c.com1.z0.glb.clouddn.com/photo.JPG
+# avatar: http://7xta2c.com1.z0.glb.clouddn.com/photo.JPG
 
 
 # Table Of Contents in the Sidebar
