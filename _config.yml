@@ -153,8 +153,8 @@ menu_icons:
 
 # Schemes
 #scheme: Mist
-scheme: Muse
-#scheme: Pisces
+#scheme: Muse
+scheme: Pisces
 
 
 # ---------------------------------------------------------------
@@ -235,6 +235,7 @@ social_icons:
 # Sidebar Avatar
 # in directory: /assets/images/avatar.gif
 # avatar: http://7xta2c.com1.z0.glb.clouddn.com/photo.JPG
+avatar: http://7xta2c.com1.z0.glb.clouddn.com/99ios/1537083519696.png
 
 
 # Table Of Contents in the Sidebar
