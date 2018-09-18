@@ -1,0 +1,28 @@
+---
+title: 病区病人基本资料更改/转病区/退住院/患者性质变更
+description: 本文主要介绍用于办理住院基本资料更改/转病区/退住院/患者性质变更的相关操作，使用人员：住院处。
+categories:
+ - 收费
+tags:
+ - 住院
+ - 收费
+---
+
+# 登录系统
+
+登录系统，选择【病区收费】->【前台业务】->【收费站】。
+
+<img src="http://7xta2c.com1.z0.glb.clouddn.com/99ios/1537087098694.png" width="1166"/>
+
+* 选择病区
+
+<img src="http://7xta2c.com1.z0.glb.clouddn.com/99ios/1537087191288.png" width="1163"/>
+
+* 分别点击各功能栏对病人信息做修改
+
+![](http://7xq6bn.com1.z0.glb.clouddn.com/18-9-18/29995275.jpg)
+
+---
+
+
+
