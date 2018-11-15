@@ -12,15 +12,15 @@ tags:
 
 登录系统，选择【病区收费】->【前台业务】->【收费站】。
 
-<img src="http://7xta2c.com1.z0.glb.clouddn.com/99ios/1537087098694.png" width="1166"/>
+<img src="http://qiniu.99ios.com/99ios/1537087098694.png" width="1166"/>
 
 * 选择病区
 
-<img src="http://7xta2c.com1.z0.glb.clouddn.com/99ios/1537087191288.png" width="1163"/>
+<img src="http://qiniu.99ios.com/99ios/1537087191288.png" width="1163"/>
 
 * 分别点击各功能栏对病人信息做修改
 
-![](http://7xq6bn.com1.z0.glb.clouddn.com/18-9-18/29995275.jpg)
+![](http://img.99ios.com/18-9-18/29995275.jpg)
 
 ---
 
